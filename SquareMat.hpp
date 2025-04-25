@@ -1,5 +1,7 @@
+//fadiujedat062@gmail.com//
 #ifndef SQUARE_MAT_HPP
 #define SQUARE_MAT_HPP
+
 
 #include <iostream>
 #include <stdexcept>
